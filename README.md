@@ -3,7 +3,7 @@ We use the tweets ID from Clickbait challenge 2017 (https://zenodo.org/record/55
 The post_text and target_paragraphs fields were derived from the clickbait challenge dataset but the rest of the fields were obtained from Twitter. 
 The description of the fields is as following:
 | Field | Description |
-| :---         |     :---:      |
+| :---         | :---      |
 | ID | a unique Tweet identification number     |
 | post_text | git diff       | 
 | git diff     | git diff       | 
