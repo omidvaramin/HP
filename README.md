@@ -5,17 +5,15 @@ The description of the fields is as following:
 | Field | Description |
 | :---         | :---      |
 | ID | a unique Tweet identification number     |
-| post_text | git diff       | 
-| git diff     | git diff       | 
-| git diff     | git diff       | 
-| git diff     | git diff       | 
-| git diff     | git diff       | 
-| git diff     | git diff       | 
-| git diff     | git diff       | 
-| git diff     | git diff       | 
-| git diff     | git diff       | 
-| git diff     | git diff       | 
-| git diff     | git diff       | 
+| post_text | a posted headline on Twitter (i.e., title)     | 
+| target_paragraphs   |  a news article (i.e., body)     |
+| favorite_count     | a number of likes       | 
+| retweet_count     | a number of retweets       | 
+| created_at     | a timestamp of a Tweet       | 
+| users_followers_count     | a number of followers of a news media's Twitter account      | 
+| user_name     | a news media's user name (i.e., news media)      | 
+| user_description     | git diff       | 
+| user_url     | git diff       | 
 
 
 
