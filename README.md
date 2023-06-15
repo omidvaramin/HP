@@ -12,8 +12,8 @@ The description of the fields is as following:
 | created_at     | a timestamp of a Tweet       | 
 | users_followers_count     | a number of followers of a news media's Twitter account      | 
 | user_name     | a news media's user name (i.e., news media)      | 
-| user_description     | git diff       | 
-| user_url     | git diff       | 
+| user_description     | further information regarding news media       | 
+| user_url     | URL of news media      | 
 
 
 
