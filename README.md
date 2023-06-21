@@ -24,19 +24,12 @@ If you find the dataset useful, please cite our article:
 
 @ARTICLE{10154027,<br />
 author={Omidvar, Amin and An, Aijun},<br />
-  
-  journal={IEEE Access}, 
-  
-  title={Learning to Generate Popular Headlines}, 
-  
-  year={2023},
-  
-  volume={},
-  
-  number={},
-  
-  pages={1-1},
-  
-  doi={10.1109/ACCESS.2023.3286853}}
+journal={IEEE Access}, <br />
+title={Learning to Generate Popular Headlines}, <br />
+year={2023},<br />
+volume={},<br />
+number={},<br />
+pages={1-1},<br />
+doi={10.1109/ACCESS.2023.3286853}}
 
 
