@@ -21,9 +21,9 @@ The description of the fields is as following:
 
 
 If you find the dataset useful, please cite our article:
-@ARTICLE{10154027,
 
-  author={Omidvar, Amin and An, Aijun},
+@ARTICLE{10154027,
+author={Omidvar, Amin and An, Aijun},
   
   journal={IEEE Access}, 
   
