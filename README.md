@@ -22,13 +22,21 @@ The description of the fields is as following:
 
 If you find the dataset useful, please cite our article:
 @ARTICLE{10154027,
+
   author={Omidvar, Amin and An, Aijun},
+  
   journal={IEEE Access}, 
+  
   title={Learning to Generate Popular Headlines}, 
+  
   year={2023},
+  
   volume={},
+  
   number={},
+  
   pages={1-1},
+  
   doi={10.1109/ACCESS.2023.3286853}}
 
 
