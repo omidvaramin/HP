@@ -4,7 +4,7 @@ https://ieeexplore.ieee.org/document/10154027
 
 We use the tweets ID from Clickbait challenge 2017 (https://zenodo.org/record/5530410) dataset to crawl the information regarding the tweets from Twitter. <br />
 The post_text and target_paragraphs fields were derived from the clickbait challenge dataset but the rest of the fields were obtained from Twitter. 
-The description of the fields is as following:
+The description of the fields is as following:<br />
 | Field | Description |
 | :---         | :---      |
 | ID | a unique Tweet identification number     |
@@ -22,8 +22,8 @@ The description of the fields is as following:
 
 If you find the dataset useful, please cite our article:
 
-@ARTICLE{10154027,
-author={Omidvar, Amin and An, Aijun},
+@ARTICLE{10154027,<br />
+author={Omidvar, Amin and An, Aijun},<br />
   
   journal={IEEE Access}, 
   
