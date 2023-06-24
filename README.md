@@ -28,9 +28,10 @@ author={Omidvar, Amin and An, Aijun},<br />
 journal={IEEE Access}, <br />
 title={Learning to Generate Popular Headlines}, <br />
 year={2023},<br />
-volume={},<br />
+volume={11},<br />
 number={},<br />
-pages={1-1},<br />
+pages={60904-60914},<br />
 doi={10.1109/ACCESS.2023.3286853}}
+
 
 
