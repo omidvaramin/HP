@@ -22,7 +22,7 @@ The description of the fields is as following:<br />
 The trained models are as follows:<br />
 | Model | Link |
 | :---         | :---      |
-|Fine tuned of Prophet-Net | https://huggingface.co/omidvaramin/Hprophetnet-large  |
+|Fine tuned of Prophet-Net | [Hprophetnet-large](https://huggingface.co/omidvaramin/Hprophetnet-large)  |
 
 If you find the dataset useful, please cite our article:
 
