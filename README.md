@@ -19,7 +19,7 @@ The description of the fields is as following:<br />
 | user_description     | further information regarding news media       | 
 | user_url     | URL of news media      | 
 
-The trained models are as follow:<br />
+The trained models for headline generaion on Newsroom dataset are as follows:<br />
 | Model | Link |
 | :---         | :---      |
 |Fine tuned of Prophet-Net | [Hprophetnet-large](https://huggingface.co/omidvaramin/Hprophetnet-large)  |
