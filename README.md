@@ -19,7 +19,7 @@ The description of the fields is as following:<br />
 | user_description     | further information regarding news media       | 
 | user_url     | URL of news media      | 
 
-The trained models are as follows:
+The trained models are as follows:<br />
 | Model Name | Link |
 | :---         | :---      |
 |Hprophetnet-large | [a unique Tweet identification number  ](https://huggingface.co/omidvaramin/Hprophetnet-large)   |
