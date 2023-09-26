@@ -20,9 +20,9 @@ The description of the fields is as following:<br />
 | user_url     | URL of news media      | 
 
 The trained models are as follows:<br />
-| Model Name | Link |
+| Model | Link |
 | :---         | :---      |
-|Hprophetnet-large | [a unique Tweet identification number  ](https://huggingface.co/omidvaramin/Hprophetnet-large)   |
+|Fine tuned of Prophet-Net | [omidvaramin/Hprophetnet-large](https://huggingface.co/omidvaramin/Hprophetnet-large)   |
 
 If you find the dataset useful, please cite our article:
 
