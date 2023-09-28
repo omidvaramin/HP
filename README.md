@@ -23,8 +23,8 @@ The trained models for headline generaion on Newsroom dataset are as follows:<br
 | Model | Link |
 | :---         | :---      |
 |Fine tuned of Prophet-Net | [Hprophetnet-large](https://huggingface.co/omidvaramin/Hprophetnet-large)  |
-|Fine tuned of Bart | [HBART](https://huggingface.co/omidvaramin/HBART)  |
-|Fine tuned of t5 | [Ht5-small](https://huggingface.co/omidvaramin/Ht5-small)  |
+|Fine tuned of BART | [HBART](https://huggingface.co/omidvaramin/HBART)  |
+|Fine tuned of T5 | [Ht5-small](https://huggingface.co/omidvaramin/Ht5-small)  |
 
 If you find the dataset useful, please cite our article:
 
