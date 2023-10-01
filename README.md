@@ -1,8 +1,7 @@
 # Headline Popularity (HP) Dataset
-This dataset was created as part of our work in "Learning to Generate Popular Headlines". You can download the article from the following link:
-https://ieeexplore.ieee.org/document/10154027
+This dataset was created as part of our work in "Learning to Generate Popular Headlines". You can download the article from [this link](https://ieeexplore.ieee.org/document/10154027)
 
-We use the tweets ID from Clickbait challenge 2017 (https://zenodo.org/record/5530410) dataset to crawl the information regarding the tweets using Twitter API. 
+We use the tweets ID from Clickbait challenge 2017 dataset ( [link](https://zenodo.org/record/5530410)) to crawl the information regarding the tweets using Twitter API. 
 
 The post_text and target_paragraphs fields were derived from the clickbait challenge dataset but the rest of the fields were obtained from Twitter. 
 The description of the fields is as following:<br />
