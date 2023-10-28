@@ -1,6 +1,9 @@
 # Headline Popularity 
 ## Training 
 
+| Code | Description |
+| :---         | :---      |
+| Tuning_headline_Popularity_Model.ipynb | This code is used to train a transformer encoder model for headline popularity prediciton task. |
 
 
 ## Headline Popularity Dataset
