@@ -1,4 +1,8 @@
 # Headline Popularity 
+## Training 
+
+
+
 ## Headline Popularity Dataset
 This dataset was created as part of our work in "Learning to Generate Popular Headlines". You can download the article from [this link](https://ieeexplore.ieee.org/document/10154027)
 
