@@ -39,7 +39,7 @@ The trained models for headline generaion on Newsroom dataset are as follows:<br
 |Fine-tuned of BART | [HBART](https://huggingface.co/omidvaramin/HBART)  |
 |Fine-tuned of T5 | [Ht5-small](https://huggingface.co/omidvaramin/Ht5-small)  |
 
-If you find the dataset useful, please cite our article:
+For more information, please read the following article:
 
 @ARTICLE{10154027,<br />
 author={Omidvar, Amin and An, Aijun},<br />
