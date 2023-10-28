@@ -18,6 +18,11 @@ The description of the fields is as following:<br />
 | user_description     | further information regarding news media       | 
 | user_url     | URL of news media      | 
 
+A trained headline popularity prediction model on HP dataset:<br />
+| Model | Link |
+| :---         | :---      |
+|Headline Popularity Prediction | [HeadlinePopularity](https://huggingface.co/omidvaramin/HeadlinePopularity)  |
+
 The trained models for headline generaion on Newsroom dataset are as follows:<br />
 | Model | Link |
 | :---         | :---      |
