@@ -3,7 +3,7 @@
 
 | Code | Description |
 | :---         | :---      |
-| [Tuning_headline_Popularity_Model](https://github.com/omidvaramin/HP/blob/main/Tuning_headline_Popularity_Model.ipynb)| This code is used to train a transformer encoder model for headline popularity prediciton task. |
+| [Tuning_headline_Popularity_Model.ipynb](https://github.com/omidvaramin/HP/blob/main/Tuning_headline_Popularity_Model.ipynb)| This code is used to train a transformer encoder model for headline popularity prediciton task. |
 
 
 ## Headline Popularity Dataset
