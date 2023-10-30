@@ -1,4 +1,12 @@
-# Headline Popularity (HP) Dataset
+# Headline Popularity 
+## Training 
+
+| Code | Description |
+| :---         | :---      |
+| [Tuning_headline_Popularity_Model.ipynb](https://github.com/omidvaramin/HP/blob/main/Tuning_headline_Popularity_Model.ipynb)| This code is used to train a transformer encoder model for headline popularity prediciton task. |
+
+
+## Headline Popularity Dataset
 This dataset was created as part of our work in "Learning to Generate Popular Headlines". You can download the article from [this link](https://ieeexplore.ieee.org/document/10154027)
 
 We use the tweets ID from Clickbait challenge 2017 dataset ( [link](https://zenodo.org/record/5530410)) to crawl the information regarding the tweets using Twitter API. 
@@ -18,6 +26,7 @@ The description of the fields is as following:<br />
 | user_description     | further information regarding news media       | 
 | user_url     | URL of news media      | 
 
+## Models
 A trained headline popularity prediction model on HP dataset:<br />
 | Model | Link |
 | :---         | :---      |
@@ -30,7 +39,7 @@ The trained models for headline generaion on Newsroom dataset are as follows:<br
 |Fine-tuned of BART | [HBART](https://huggingface.co/omidvaramin/HBART)  |
 |Fine-tuned of T5 | [Ht5-small](https://huggingface.co/omidvaramin/Ht5-small)  |
 
-If you find the dataset useful, please cite our article:
+For more information, please read the following article:
 
 @ARTICLE{10154027,<br />
 author={Omidvar, Amin and An, Aijun},<br />
