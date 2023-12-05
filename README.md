@@ -4,6 +4,7 @@
 | Code | Description |
 | :---         | :---      |
 | [Tuning_headline_Popularity_Model.ipynb](https://github.com/omidvaramin/HP/blob/main/Tuning_headline_Popularity_Model.ipynb)| This code is used to train a transformer encoder model for headline popularity prediciton task. |
+| [Evaluator.ipynb](https://github.com/omidvaramin/HP/blob/main/Evaluator.ipynb)| This code is used to generate 10 variations of headlines for each news articles, select the most popular ones, and then calculate the evaluation metrics (i.e., ROUGE, BLEU, and METEOR) |
 
 
 ## Headline Popularity Dataset
