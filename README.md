@@ -1,18 +1,9 @@
 # Headline Popularity 
-## Training 
 
-| Code | Description |
-| :---         | :---      |
-| [Tuning_headline_Popularity_Model.ipynb](https://github.com/omidvaramin/HP/blob/main/Tuning_headline_Popularity_Model.ipynb)| This code is used to train a transformer encoder model for headline popularity prediciton task. |
-| [Evaluator.ipynb](https://github.com/omidvaramin/HP/blob/main/Evaluator.ipynb)| This code is used to generate 10 variations of headlines for each news articles, select the most popular ones, and then calculate the evaluation metrics (i.e., ROUGE, BLEU, and METEOR) |
-| [Training_generator_models.ipynb](https://github.com/omidvaramin/HP/blob/main/Training_generator_models.ipynb)| This code is used to train a transformer model on headline generation task |
 
 ## Headline Popularity Dataset
-This dataset was created as part of our work in "Learning to Generate Popular Headlines". You can download the article from [this link](https://ieeexplore.ieee.org/document/10154027)
-
-We use the tweets ID from Clickbait challenge 2017 dataset ( [link](https://zenodo.org/record/5530410)) to crawl the information regarding the tweets using Twitter API. 
-
-The post_text and target_paragraphs fields were derived from the clickbait challenge dataset but the rest of the fields were obtained from Twitter. 
+The dataset was created as part of our work in "Learning to Generate Popular Headlines". You can download the article from [this link](https://ieeexplore.ieee.org/document/10154027)
+Due to Twitter policy, we are not allowed to share the data, but the procedure to obtain the dataset is simple as follows through Twitter API. We use the ID of the tweet from the Clickbait Challenge 2017 dataset ( [link](https://zenodo.org/record/5530410)) to crawl the information regarding the tweets using Twitter API. The information is shown in the following table. The post_text and target_paragraphs fields were derived from the clickbait challenge dataset but the rest of the fields were obtained from Twitter. 
 The description of the fields is as following:<br />
 | Field | Description |
 | :---         | :---      |
@@ -28,10 +19,6 @@ The description of the fields is as following:<br />
 | user_url     | URL of news media      | 
 
 ## Models
-A trained headline popularity prediction model on HP dataset:<br />
-| Model | Link |
-| :---         | :---      |
-|Headline Popularity Prediction | [HeadlinePopularity](https://huggingface.co/omidvaramin/HeadlinePopularity)  |
 
 The trained models for headline generaion on Newsroom dataset are as follows:<br />
 | Model | Link |
@@ -39,6 +26,14 @@ The trained models for headline generaion on Newsroom dataset are as follows:<br
 |Fine-tuned of Prophet-Net | [Hprophetnet-large](https://huggingface.co/omidvaramin/Hprophetnet-large)  |
 |Fine-tuned of BART | [HBART](https://huggingface.co/omidvaramin/HBART)  |
 |Fine-tuned of T5 | [Ht5-small](https://huggingface.co/omidvaramin/Ht5-small)  |
+
+## Training 
+
+| Code | Description |
+| :---         | :---      |
+| [Tuning_headline_Popularity_Model.ipynb](https://github.com/omidvaramin/HP/blob/main/Tuning_headline_Popularity_Model.ipynb)| This code is used to train a transformer encoder model for headline popularity prediciton task. |
+| [Evaluator.ipynb](https://github.com/omidvaramin/HP/blob/main/Evaluator.ipynb)| This code is used to generate 10 variations of headlines for each news articles, select the most popular ones, and then calculate the evaluation metrics (i.e., ROUGE, BLEU, and METEOR) |
+| [Training_generator_models.ipynb](https://github.com/omidvaramin/HP/blob/main/Training_generator_models.ipynb)| This code is used to train a transformer model on headline generation task |
 
 For more information, please read the following article:
 
