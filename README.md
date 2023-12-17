@@ -3,7 +3,7 @@
 
 ## Headline Popularity Dataset
 The dataset was created as part of our work in "Learning to Generate Popular Headlines" [(article's link)](https://ieeexplore.ieee.org/document/10154027).
-Due to Twitter policy ([link](https://developer.twitter.com/en/developer-terms/more-on-restricted-use-cases)), we are not allowed to share the data, but the procedure to obtain the dataset is simple as follows through Twitter API. We use the ID of the tweet from the Clickbait Challenge 2017 dataset ( [link](https://zenodo.org/record/5530410)) to crawl the information regarding the tweets using Twitter API. The information is shown in the following table. The post_text and target_paragraphs fields were derived from the clickbait challenge dataset but the rest of the fields were obtained from Twitter. 
+Due to Twitter policy, we are not allowed to share the data, but the procedure to obtain the dataset is simple as follows through Twitter API. We use the ID of the tweet from the Clickbait Challenge 2017 dataset ( [link](https://zenodo.org/record/5530410)) to crawl the information regarding the tweets using Twitter API. The information is shown in the following table. The post_text and target_paragraphs fields were derived from the clickbait challenge dataset but the rest of the fields were obtained from Twitter. 
 The description of the fields is as following:<br />
 | Field | Description |
 | :---         | :---      |
